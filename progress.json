@@ -295,5 +295,14 @@
       "Great work on using branches to maintain the care notes for your bonsai trees!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1786825408.194619,
+    "completed_at": 1786825408.901801,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
