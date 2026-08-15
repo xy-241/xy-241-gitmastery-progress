@@ -25,5 +25,14 @@
       "Answer for What is responsible for the hidden files? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1786823100.089969,
+    "completed_at": 1786823101.266485,
+    "comments": [
+      "Answer for What is responsible for the hidden files? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
