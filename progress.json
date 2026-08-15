@@ -349,5 +349,14 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1786825913.835249,
+    "completed_at": 1786825914.510571,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
