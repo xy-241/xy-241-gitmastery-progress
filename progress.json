@@ -79,5 +79,12 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786823834.991279,
+    "completed_at": 1786823835.723017,
+    "comments": [],
+    "status": "Completed"
   }
 ]
