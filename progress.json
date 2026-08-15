@@ -34,5 +34,14 @@
       "Answer for What is responsible for the hidden files? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1786823114.932945,
+    "completed_at": 1786823115.564636,
+    "comments": [
+      "Great work in identifying how .gitignore works!"
+    ],
+    "status": "Completed"
   }
 ]
