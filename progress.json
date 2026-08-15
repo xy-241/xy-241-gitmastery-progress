@@ -241,5 +241,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1786825070.996461,
+    "completed_at": 1786825072.246784,
+    "comments": [
+      "The 'sleep-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
