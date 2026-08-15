@@ -16,5 +16,14 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1786823088.120212,
+    "completed_at": 1786823089.343821,
+    "comments": [
+      "Answer for What is responsible for the hidden files? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
