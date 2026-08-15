@@ -430,5 +430,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "create-pr-from-main",
+    "started_at": 1786826609.946441,
+    "completed_at": 1786826611.130211,
+    "comments": [
+      "No module named 'exercise_utils.exercise_config'"
+    ],
+    "status": "Error"
   }
 ]
